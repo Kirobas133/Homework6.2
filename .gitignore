@@ -411,3 +411,5 @@ x64/
 
 *.vcxproj
 *.cmake
+*.filters
+*.user
